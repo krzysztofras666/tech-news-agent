@@ -1,0 +1,5 @@
+# One URL per line. Fetched at the start of each `run` and appended to the
+# knowledge base for this account so the model sees current dates.
+# Lines starting with `#` are ignored.
+
+https://leadersisland.com/szkolenia/
